@@ -14,7 +14,6 @@ I build image, video and signal-processing pipelines that turn messy experimenta
 ## Research code
 
 - **[Offline-Stabilization](https://github.com/Asieh-Daneshi/Offline-Stabilization)** and **[Jitter-Analysis](https://github.com/Asieh-Daneshi/Jitter-Analysis)**: stabilisation of adaptive-optics retinal (AOSLO) videos and measurement of the motion left after stabilisation (University Clinic Bonn, MATLAB).
-- **[Offline-Conformity](https://github.com/Asieh-Daneshi/Offline-Conformity)**: VR conformity experiment with eye tracking, data gloves and controllers (Science of Intelligence, Python).
 
 ## Tools
 
