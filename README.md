@@ -1,6 +1,8 @@
 # Asieh Daneshi, PhD
 
-Computer vision and biomedical data scientist in Berlin.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asieh--daneshi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asieh-daneshi) [![Email](https://img.shields.io/badge/Email-asieh.daneshi%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:asieh.daneshi@gmail.com) ![Location](https://img.shields.io/badge/Berlin-open%20to%20work%20from%20Jan%202027-2ea44f)
+
+**Computer vision and biomedical data scientist in Berlin.**
 
 I build image, video and signal-processing pipelines that turn messy experimental data into results people can trust. For six years as a postdoc, first at the University Clinic Bonn and then at the Science of Intelligence cluster (TU Berlin and HU Berlin), I have worked with retinal imaging, EEG and behavioural video data. My PhD is in biomedical engineering.
 
@@ -16,7 +18,7 @@ I build image, video and signal-processing pipelines that turn messy experimenta
 
 ## Tools
 
-Python, PyTorch, TensorFlow, OpenCV, NumPy, SciPy, scikit-learn, R, SQL, MATLAB, C#, Unity3D, Git
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?logo=dotnet&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ## Selected papers
 
@@ -26,5 +28,4 @@ Python, PyTorch, TensorFlow, OpenCV, NumPy, SciPy, scikit-learn, R, SQL, MATLAB,
 
 ## Contact
 
-I am looking for a full-time role in computer vision, medical imaging or health data science in Berlin from January 2027.
-[LinkedIn](https://www.linkedin.com/in/asieh-daneshi) · asieh.daneshi@gmail.com
+I am looking for a full-time role in computer vision, medical imaging or health data science in Berlin from January 2027. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/asieh-daneshi) or asieh.daneshi@gmail.com.
