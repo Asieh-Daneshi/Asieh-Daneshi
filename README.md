@@ -9,7 +9,9 @@ I build image, video and signal-processing pipelines that turn messy experimenta
 ## Start here
 
 - **[retinal-vessel-segmentation](https://github.com/Asieh-Daneshi/retinal-vessel-segmentation)**: a small PyTorch U-Net for vessel segmentation in retinal fundus images (CHASE_DB1). Split by child, threshold chosen on validation data, Dice 0.80 on unseen children, on par with a second human annotator, plus calibration and error analysis.
-- **[imaging-signal-pitfalls](https://github.com/Asieh-Daneshi/imaging-signal-pitfalls)**: small, runnable experiments on things that quietly go wrong in biomedical image and signal processing and model evaluation (spectrograms, filter delay, smoothing, dataset shift with a PyTorch CNN, screening PPV, subject leakage, Dice vs pixel accuracy, calibration, feature-selection leakage). Nine experiments so far, each a few seconds to run on synthetic data.
+- **[imaging-signal-pitfalls](https://github.com/Asieh-Daneshi/imaging-signal-pitfalls)**: small, runnable experiments on things that quietly go wrong in biomedical image and signal processing and model evaluation A growing set of numbered experiments (leakage, calibration, class imbalance, small test sets, threshold choice and more), each a few seconds to run on synthetic data.
+
+- **[tiny-unet-segmentation](https://github.com/Asieh-Daneshi/tiny-unet-segmentation)**: a compact, tested PyTorch U-Net for lesion segmentation on noisy synthetic images, evaluated with Dice and IoU (pytest included).
 
 ## Research code
 
